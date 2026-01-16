@@ -1,0 +1,1 @@
+@RestResource(urlMapping='/revenue/opporunity')
